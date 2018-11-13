@@ -47,7 +47,7 @@ misc      miscellaneous
 
 * **Vincent Claes**    - *Lecturer* - [LinkedIn](https://www.linkedin.com/in/vincentclaes/)
 * **Jeffrey Gorissen** - *Student*  - [LinkedIn](https://www.linkedin.com/in/jeffrey-gorissen-6120a2142/)
-* **Bryan Honof**      - *student*  - [LinkedIn](https://www.linkedin.com/in/bryan-honof/)
+* **Bryan Honof**      - *Student*  - [LinkedIn](https://www.linkedin.com/in/bryan-honof/)
 
 ## License
 
