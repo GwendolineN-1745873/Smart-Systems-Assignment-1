@@ -1,7 +1,7 @@
 # Smart Systems Assignment 1
 
 Assignment 1 of the Smart Systems course lectured by [Vincent Claes](https://www.linkedin.com/in/vincentclaes/) @ [PXL University College](https://www.pxl.be).
-The goal of this assignment is to write firmware for the [SimpleLink Wi-Fi CC3200 LaunchPad](http://www.ti.com/tool/CC3200-LAUNCHXL) that collect
+The goal of this assignment is to write firmware for the [SimpleLink Wi-Fi CC3200 LaunchPad](http://www.ti.com/tool/CC3200-LAUNCHXL) that collects
 and uploads the data it gathers from its temperature sensor.
 A flask server backend is provided on an herok server toghetter with an heroku PostgreSQL.
 
